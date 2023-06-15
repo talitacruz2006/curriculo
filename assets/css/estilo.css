@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700;1,900&display=swap');
 .banner {
     background: url('../img/mulher\ maravilha.webp');  
     background-position: top center; 
@@ -46,14 +47,13 @@
      }
     } 
 
-    .cor{
-        color: #0b0a0a; 
-    }
 
-    .center{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-right: 800px;
-        margin-top: 60px;
+    
+    .habilidades{
+        font-family: 'Merriweather', serif;
+    } 
+
+    .histórico{
+        font-family: 'Merriweather', serif;
+        margin-left: 35%;
     }
